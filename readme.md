@@ -15,7 +15,8 @@ Add a transition to your CSS to make things look nicer:
 
 ## Options
 
-| **option** | **description** | **default value** |
+| option | description | default value |
+| ------ | ----------- | ------------- |
 | horizontalOffset | the horizontal offset in px or percent | 15 |
 | verticalOffset | the vertical offset in px or percent | 15 |
 | pixels | whether to use pixel or percent | true |
